@@ -11,7 +11,7 @@
 ## Instalación
 
 ```bash
-$ npm i discord-canvas-spanish@latest
+$ npm i discord-canvas-spanish-1ly4s0@latest
 ```
 
 ## [Suscribete a mi canal de YouTube!](https://www.youtube.com/c/tecnobros)
