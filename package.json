@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      "discord-canvas-spanish-1ly4s0@1.1.7",
+      "/workspace/NEO/neobot"
+    ]
+  ],
+  "_from": "discord-canvas-spanish-1ly4s0@1.1.7",
+  "_id": "discord-canvas-spanish-1ly4s0@1.1.7",
+  "_inBundle": false,
+  "_integrity": "sha512-K8773yrM1byJ/0SkdYfYt1kdr7frIuGGfZonjKzmd7/CKxUdaCquXNpzBem69QyvAUYgo04HqJCccitjhQp5XA==",
+  "_location": "/discord-canvas-spanish-1ly4s0",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "discord-canvas-spanish-1ly4s0@1.1.7",
+    "name": "discord-canvas-spanish-1ly4s0",
+    "escapedName": "discord-canvas-spanish-1ly4s0",
+    "rawSpec": "1.1.7",
+    "saveSpec": null,
+    "fetchSpec": "1.1.7"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/discord-canvas-spanish-1ly4s0/-/discord-canvas-spanish-1ly4s0-1.1.7.tgz",
+  "_spec": "1.1.7",
+  "_where": "/workspace/NEO/neobot",
+  "author": {
+    "name": "1ly4s0"
+  },
+  "bugs": {
+    "url": "https://github.com/1ly4s0/discord-canvas-spanish-1ly4s0/issues"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "fortnite": "^4.3.2",
+    "fortnite-9812": "^1.0.4",
+    "fs": "^0.0.1-security"
+  },
+  "description": "¡Una librería para hacer más fácil el uso de Canvas para Discord!",
+  "homepage": "https://github.com/1ly4s0/discord-canvas-spanish-1ly4s0#readme",
+  "keywords": [
+    "Discord.js",
+    "Canvas",
+    "Welcome",
+    "fortnite"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "discord-canvas-spanish-1ly4s0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1ly4s0/discord-canvas-spanish-1ly4s0.git"
+  },
+  "version": "1.1.7"
+}
